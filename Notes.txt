@@ -1,0 +1,24 @@
+React Component
+
+A React Component is LIKE a function, 
+which may or may not take arguments but it must always return some UI.
+
+A React Component can be represented by a JS Class or a JS function
+
+JSX (JavaScript XML)
+JSX is basically 99% HTML but it allows all HTML tags and React Components
+
+
+
+State
+
+State is a variable inside a component, which when changed, causes the 
+component to refresh
+
+useState
+
+useState is a function
+It takes only 1 argument which represents the initial value of state
+It returns an array with 2 members.
+Member1 is the state variable
+Member2 is a function that is used to change the value of the state variable
